@@ -2,7 +2,7 @@
 
 > **Official GitHub Community** — Daily development services, guides, tools & resources for developers.
 
-We are a community-driven development organization run by two passionate developers. We ship free & paid resources daily — Discord bots, Pterodactyl themes, web tools, hosting solutions, and everything in between.
+We are a community-Synora 乂 Development organization run by two passionate developers. We ship free & paid resources daily — Discord bots, Pterodactyl themes, web tools, hosting solutions, and everything in between.
 
 ---
 
@@ -10,8 +10,8 @@ We are a community-driven development organization run by two passionate develop
 
 | | Developer | Role |
 |-|-----------|------|
-| 🧑‍💻 | **Yesh Patel** `(Jenil Moradiya)` | Lead Developer — Discord Bots, Bot Architecture, Pterodactyl Theming |
-| 🧑‍💻 | **Pawan Kumar** | Co-Owner — Web Development, Hosting, Software Services |
+| + | **Yesh Patel** `(Jenil Moradiya)` | Lead Developer — Discord Bots, Bot Architecture, Pterodactyl Theming |
+| + | **Pawan Kumar** | Co-Owner — Web Development, Hosting, Software Services |
 
 ---
 
@@ -19,16 +19,16 @@ We are a community-driven development organization run by two passionate develop
 
 We provide **daily development services** across multiple domains:
 
-- 🤖 **Discord Bot Development** — Full custom bots, free SRC releases, open-source tools
-- 🎨 **Pterodactyl Panel Themes** — Custom themes, installers, UI overhauls
-- 🛒 **SellerAuth Themes** — Premium storefront designs
-- 🖥️ **Web Development** — Paid & free web services, landing pages, dashboards
-- 🔧 **Software Checking** — Code reviews, bug audits, project analysis
-- 📡 **Hosting Development** — VPS setup, panel configs, server management
-- 💬 **Discord Server Development** — Professional server setups, branding, bots
-- 📚 **Guides & Tutorials** — Step-by-step developer guides published to GitHub
-- ✅ **Free Services** — Open-source bots, themes, tools for the community
-- 💎 **Paid Services** — Custom commissions, premium builds, dedicated support
+-  **Discord Bot Development** — Full custom bots, free SRC releases, open-source tools
+-  **Pterodactyl Panel Themes** — Custom themes, installers, UI overhauls
+-  **SellerAuth Themes** — Premium storefront designs
+-  **Web Development** — Paid & free web services, landing pages, dashboards
+-  **Software Checking** — Code reviews, bug audits, project analysis
+-  **Hosting Development** — VPS setup, panel configs, server management
+-  **Discord Server Development** — Professional server setups, branding, bots
+-  **Guides & Tutorials** — Step-by-step developer guides published to GitHub
+-  **Free Services** — Open-source bots, themes, tools for the community
+-  **Paid Services** — Custom commissions, premium builds, dedicated support
 
 ---
 
@@ -72,13 +72,13 @@ We provide **daily development services** across multiple domains:
 ## 📦 What We Publish
 
 ```
-🤖  Discord Bot SRC          Free & open-source bot source code
-🎨  Pterodactyl Themes       Panel UI themes with installers
-🛒  SellerAuth Themes        Premium seller storefront designs
-📚  Developer Guides         Step-by-step tutorials for developers
-🔧  Tools & Utilities        Scripts, tools, and dev utilities
-💬  Discord Resources        Server templates, setups, configs
-🌐  Web Projects             Dashboards, landing pages, web tools
+  Discord Bot SRC          Free & open-source bot source code
+  Pterodactyl Themes       Panel UI themes with installers
+  SellerAuth Themes        Premium seller storefront designs
+  Developer Guides         Step-by-step tutorials for developers
+  Tools & Utilities        Scripts, tools, and dev utilities
+  Discord Resources        Server templates, setups, configs
+  Web Projects             Dashboards, landing pages, web tools
 ```
 
 ---
@@ -93,8 +93,8 @@ We provide **daily development services** across multiple domains:
 
 | Platform | Link |
 |----------|------|
-| 💬 Discord Support Server | [dsc.gg/synoraxdev](https://dsc.gg/synoraxdev) |
-| 🐙 GitHub Organization | [github.com/Synoraxdev](https://github.com/Synoraxdev) |
+|  Discord Support Server | [dsc.gg/synoraxdev](https://dsc.gg/synoraxdev) |
+|  GitHub Organization | [github.com/Synoraxdev](https://github.com/Synoraxdev) |
 
 ---
 
