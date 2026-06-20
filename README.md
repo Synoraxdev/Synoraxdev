@@ -10,8 +10,8 @@ We are a community-Synora 乂 Development organization run by two passionate dev
 
 | | Developer | Role |
 |-|-----------|------|
-| + | **Yesh Patel** `(Jenil Moradiya)` | Lead Developer — Discord Bots, Bot Architecture, Pterodactyl Theming |
-| + | **Pawan Kumar** | Co-Owner — Web Development, Hosting, Software Services |
+| + | **Yesh Patel** `(Jenil Moradiya)` | Founder — Discord Bots, Bot Architecture, Pterodactyl Theming |
+| + | **Pawan Kumar** | Founder — Web Development, Hosting, Software Services |
 
 ---
 
